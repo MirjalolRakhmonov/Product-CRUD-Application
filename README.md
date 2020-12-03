@@ -11,9 +11,10 @@ Delete Customer
 
  	 To Do
 Run Sql files to setup a database
-Test Database connection
-Setup Environment => adding xml and JAR files
-Test MVC Controller
-Create Customer, ProductDAO, ProductDAOImpl classes
-CSS part
-Add a service layer
+
+ Test Database connection
+ Setup Environment => adding xml and JAR files
+ Test MVC Controller
+ Create Customer, ProductDAO, ProductDAOImpl classes
+ CSS part
+ Add a service layer
