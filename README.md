@@ -1,5 +1,5 @@
 # Product-CRUD-Application
-Product CRUD Application using Spring MVC | CRUD Operation using Spring MVC that connect to a Database
+Product CRUD Application using Spring MVC | CRUD Operation that connect to a Database
 
     Functionality
 User
